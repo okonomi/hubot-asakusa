@@ -22,7 +22,9 @@
     "websocket": "~1.0.22"
   },
   "devDependencies": {
-    "coffee-script": "~1.10.0"
+    "coffee-script": "~1.10.0",
+    "mocha": "~2.3.4",
+    "power-assert": "^1.2.0"
   },
   "main": "./src/asakusa",
   "engine": "node > 0.6.0 < 0.7.0",
