@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "coffee-script": "~1.10.0",
+    "espower-coffee": "^1.0.1",
     "mocha": "~2.3.4",
     "nock": "^4.0.0",
     "power-assert": "^1.2.0"
