@@ -53,13 +53,12 @@ First, install dependencies.
 
 ```
 npm install
-npm -g mocha power-assert
 ```
 
 Run test.
 
 ```
-mocha --require 'espower-coffee/guess' test/**/*.coffee
+./node_modules/mocha/bin/mocha --require 'espower-coffee/guess' test/**/*.coffee
 ```
 
 ## TODO
