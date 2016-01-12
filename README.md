@@ -59,7 +59,7 @@ npm -g mocha power-assert
 Run test.
 
 ```
-mocha --compilers coffee:coffee-script/register
+mocha --require 'espower-coffee/guess' test/**/*.coffee
 ```
 
 ## TODO
