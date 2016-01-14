@@ -47,7 +47,7 @@ I do not know if this adapter works well with Heroku because you have to set req
     % export HUBOT_ASAKUSA_SECRET="uDEPRjLafZgiiHrxu1Aw"
     % export HUBOT_ASAKUSA_WS_URL="localhost:3002/websocket/as"
 
-### Development
+## Development
 
 First, install dependencies.
 
